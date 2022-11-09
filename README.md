@@ -7,7 +7,7 @@ For this project, I was tasked with taking a UFO Sighting dataset and coding it 
 
 Users can filter their search on the left side of the webpage. They can enter a date in addition to a city, state, country, and shape using the search fields displayed in the image below. 
 
--- enter image
+![left search fields](https://github.com/billy-bartlett/UFOs/blob/main/Resources/search_fields.png)
 
 ## Summary
 One drawback of the current webpage design is that users cannot filter by using a date range. Rather, users are only allowed to search using one specific date at a time.
